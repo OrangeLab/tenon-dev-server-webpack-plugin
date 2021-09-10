@@ -1,0 +1,24 @@
+{
+  "name": "@hummer/tenon-dev-server-webpack-plugin",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OrangeLab/tenon-dev-server-webpack-plugin.git"
+  },
+  "author": "AdamCaoQAQ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OrangeLab/tenon-dev-server-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/OrangeLab/tenon-dev-server-webpack-plugin#readme",
+  "dependencies": {
+    "@hummer/cli-plugin-build": "^0.6.0",
+    "address": "^1.1.2",
+    "path": "^0.12.7"
+  }
+}
