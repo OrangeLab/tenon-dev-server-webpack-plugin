@@ -1,6 +1,6 @@
 {
   "name": "@hummer/tenon-dev-server-webpack-plugin",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -22,6 +22,7 @@
   "homepage": "https://github.com/OrangeLab/tenon-dev-server-webpack-plugin#readme",
   "dependencies": {
     "@hummer/cli-plugin-build": "^0.6.0",
+    "@hummer/devtools-frontend": "^0.2.3",
     "address": "^1.1.2",
     "path": "^0.12.7"
   }
